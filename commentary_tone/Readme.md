@@ -6,8 +6,10 @@
 - **Python 3**  в среде **Jupyter Notebook**
 
 #### Использованы следующие библиотеки:
-- Pandas
-- Numpy
-- Scikit-learn
-- Nltk
-- SpaCy
+- `Pandas`
+- `Numpy`
+- `Scikit-learn`
+- `Nltk`
+- `SpaCy`
+- `Os`
+- `Re`
