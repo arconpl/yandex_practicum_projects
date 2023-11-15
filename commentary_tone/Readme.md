@@ -9,7 +9,9 @@
 - `Pandas`
 - `Numpy`
 - `Scikit-learn`
+- `LightGBM`
 - `Nltk`
 - `SpaCy`
 - `Os`
 - `Re`
+- `Tqdm`
