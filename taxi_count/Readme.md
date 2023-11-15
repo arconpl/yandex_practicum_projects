@@ -8,4 +8,8 @@
 - `Pandas`
 - `Numpy`
 - `Scikit-learn`
+- `Matplotlib`
+- `LightGBM`
+- `Statsmodels`
+- `Os`
 
